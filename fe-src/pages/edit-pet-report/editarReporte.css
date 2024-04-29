@@ -1,0 +1,16 @@
+.contenedor_botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 40%;
+    gap: 20px;
+  }
+  .button{
+    margin: 0 0;
+  }
+
+.mascotaEncontrada{
+  text-align: center;
+  background-color: darkgoldenrod;
+  width: 100%;
+}

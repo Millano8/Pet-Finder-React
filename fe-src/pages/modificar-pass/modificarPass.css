@@ -1,0 +1,13 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    height: 90%;
+    justify-content: space-between;
+    gap:20px;
+  }
+  .formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+  }

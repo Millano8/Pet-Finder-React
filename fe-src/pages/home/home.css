@@ -1,0 +1,13 @@
+.contenedor_botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .img {
+      display: flex;
+      justify-content: center;
+      margin: 0 auto;
+      width: 215px;
+      min-height: 235px;
+  }

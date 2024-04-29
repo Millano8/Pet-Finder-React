@@ -1,0 +1,15 @@
+.img {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	width: 215px;
+	min-height: 235px;
+}
+.centrado{
+  text-align: center;
+}
+.formulario{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

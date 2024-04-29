@@ -1,0 +1,19 @@
+.contenedor_report{
+	font-family: "Poppins", sans-serif;
+	display: flex;
+	gap:7px;
+	color: white;
+	flex-direction: column;
+	position: absolute;
+	border-radius: 10px;
+	background-color: #26302E;
+	padding: 14px 20px;
+	top: 100px;
+  left: 20px;
+  right: 20px;
+  margin: auto;
+}
+.x{
+  text-align: right;
+  margin:0;
+}

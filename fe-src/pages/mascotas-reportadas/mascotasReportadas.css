@@ -1,0 +1,19 @@
+.img {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	width: 215px;
+	min-height: 235px;
+}
+.card_distribution{
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	padding-bottom: 20px;
+}
+.contenedor_imagen_button{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	height: 100%;
+}

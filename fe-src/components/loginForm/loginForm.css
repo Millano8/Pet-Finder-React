@@ -1,0 +1,13 @@
+.contenedor_botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+    margin: auto 0;
+  }
+  .formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90%;
+  }

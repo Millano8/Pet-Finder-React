@@ -1,0 +1,9 @@
+.container_informacion{
+	height: 70vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.justificado{
+  text-align: justify;
+}

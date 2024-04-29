@@ -1,0 +1,15 @@
+.contenedor_botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .centrado{
+    text-align: center;
+  }
+  .formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90%;
+  }

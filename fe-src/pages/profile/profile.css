@@ -1,0 +1,10 @@
+.contenedor_botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 40%;
+    gap: 20px;
+  }
+  .centrado{
+    text-align: center;
+  }
